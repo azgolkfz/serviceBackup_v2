@@ -1,2 +1,15 @@
 # serviceBackup_v2
-    Valet lets you securely store data in the iOS Keychain without knowing a thing about how the Keychain works.
+
+    "Implements rate limiting and throttling"
+
+## Setup
+
+```
+pip install -r requirements.txt
+```
+
+## Run
+
+```
+python main.py
+```
