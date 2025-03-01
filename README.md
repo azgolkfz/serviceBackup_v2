@@ -16,3 +16,6 @@ python main.py
 
 ## Update from fix/merge-9043
 - Auto-generated changes
+
+## Update from fix/merge-9879
+- Auto-generated changes
