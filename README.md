@@ -13,3 +13,6 @@ pip install -r requirements.txt
 ```
 python main.py
 ```
+
+## Update from docs/update-8307
+- Auto-generated changes
